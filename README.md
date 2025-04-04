@@ -1,2 +1,1 @@
-# Hasib-Portfolio
-My ITEC1010 Website Project
+This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
